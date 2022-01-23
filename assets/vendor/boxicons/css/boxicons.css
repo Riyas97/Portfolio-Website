@@ -3958,6 +3958,23 @@
   .bx-home-smile:before {
     content: "\ed79";
   }
+
+  .bx-skills:before {
+    content: "\ed75";
+  }
+  .bx-skills-alt:before {
+    content: "\ed76";
+  }
+  .bx-skills-circle:before {
+    content: "\ed77";
+  }
+  .bx-skills-heart:before {
+    content: "\ed78";
+  }
+  .bx-skills-smile:before {
+    content: "\ed79";
+  }
+
   .bx-horizontal-center:before {
     content: "\ed7a";
   }
