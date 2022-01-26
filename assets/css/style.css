@@ -9,14 +9,14 @@
   background-color: DodgerBlue;
   border: none;
   color: white;
-  padding: 10px 20px;
+  padding: 10px 15px;
   cursor: pointer;
-  font-size: 15px;
+  font-size: 13px;
 }
 
 /* Darker background on mouse-over */
 .btn:hover {
-  background-color: RoyalBlue;
+  background-color: rgba(65, 105, 225, 0.178);
 }
 
 /*--------------------------------------------------------------
